@@ -1,0 +1,4 @@
+cd /tmp
+git clone https://www.gitee.com/xing-you-ji/touge_help.git
+mv touge_help/ fifth 
+//在终端复制粘贴即可
